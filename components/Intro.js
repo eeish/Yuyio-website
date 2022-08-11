@@ -3,7 +3,6 @@ import Typography from "@mui/material/Typography";
 import Tooltip from "@mui/material/Tooltip";
 
 import Container from "./Container";
-import ConnectWallet from "./ConnectWallet";
 import { padWidth } from "../utils";
 
 const Head = styled.div`
