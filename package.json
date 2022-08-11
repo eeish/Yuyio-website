@@ -1,5 +1,5 @@
 {
-  "name": "gclxnft",
+  "name": "Yuyio-website",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -27,5 +27,19 @@
     "babel-plugin-styled-components": "^2.0.2",
     "eslint": "8.9.0",
     "eslint-config-next": "12.0.10"
-  }
+  },
+  "description": "Yuyio app official introduction website",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/eeish/Yuyio-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eeish/Yuyio-website/issues"
+  },
+  "homepage": "https://github.com/eeish/Yuyio-website#readme"
 }
