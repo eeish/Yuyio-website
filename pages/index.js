@@ -3,13 +3,7 @@ import Head from 'next/head';
 
 import Intro from '../components/Intro';
 import Gallery from '../components/Gallery';
-import Roadmap from '../components/Roadmap';
-import Whitelist from '../components/Whitelist';
 import Team from '../components/Team';
-import PFPMaker from '../components/PFPMaker';
-import FAQ from '../components/FAQ';
-import Mint from '../components/Mint';
-import Summary from '../components/Summary';
 import Footer from '../components/Footer';
 
 export default function Home() {
